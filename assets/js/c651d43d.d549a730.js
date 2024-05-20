@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs_as_code_practice=self.webpackChunkdocs_as_code_practice||[]).push([[6331],{3123:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/docs-as-code-practice/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
